@@ -111,7 +111,7 @@ function updateSheets() {
   });
   if (runningSheets.length > 0) {
     createTrigger();
-    ss.toast('Please wait for a while until the test is completed.', 'Simple WPT Runner v1.0', 10);
+    ss.toast('Please wait for a while until the test is completed.', 'Genjo v1.0', 10);
   }
 }
 
